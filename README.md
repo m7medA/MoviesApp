@@ -1,6 +1,6 @@
 # Movies App - Task 2
 
-This project is **Task 2** in **Phase 1** of the internship at **Web Masters**. The task is UI project built using HTML and CSS only and then is to rebuild this project using any UI framework. For this project, I used **Bootstrap** as the CSS framework.
+This project is **Task 2** in **Phase 1** of the internship at **[Web Masters](https://www.linkedin.com/company/web-masters-academy/posts/?feedView=all)**. The task is UI project built using HTML and CSS only and then is to rebuild this project using any UI framework. For this project, I used **Bootstrap** as the CSS framework.
 
 ## Features
 
@@ -16,4 +16,4 @@ This project is **Task 2** in **Phase 1** of the internship at **Web Masters**. 
 
 ## Live Demo
 
-[View Live Demo](#) <!-- Replace `#` with the actual link to your live demo -->
+[View Live Demo](https://movies-app-m7meda.netlify.app/)
